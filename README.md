@@ -1,4 +1,3 @@
-![fluxograma](https://user-images.githubusercontent.com/104045633/168196236-5bd1058b-dd5e-438f-b716-6a768047ce07.png)
 ALGORITMO DO EXERCICIO
 
 	 INICIO
@@ -18,3 +17,6 @@ ALGORITMO DO EXERCICIO
                                                                         SE NÃO, EXIBA "VOCÊ NÃO PODE ESTACIONAR! :("
                                                                           
           									 FIM
+										 
+										 ![fluxograma](https://user-images.githubusercontent.com/104045633/168196889-6bacf3c4-2589-4abd-b807-f2fb0357a849.png)
+
