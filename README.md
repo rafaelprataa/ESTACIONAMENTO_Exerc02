@@ -1,3 +1,4 @@
+![fluxograma](https://user-images.githubusercontent.com/104045633/168196236-5bd1058b-dd5e-438f-b716-6a768047ce07.png)
 ALGORITMO DO EXERCICIO
 
 	 INICIO
