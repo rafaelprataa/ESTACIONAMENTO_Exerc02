@@ -1,6 +1,6 @@
-## Aqui temos um algoritmo utilizando estrutura condicional para determinar se uma pessoa tem permissão para estacionar, nesse algoritmo pelo menos uma condicional deve ser verdadeira.
+# Aqui temos um algoritmo utilizando estrutura condicional para determinar se uma pessoa tem permissão para estacionar, nesse algoritmo pelo menos uma condicional deve ser verdadeira.
 
-# ALGORITMO DO EXERCICIO
+## Algoritmo do Exercicio
                        
 		 INICIO
 	ENQUANTO EXISTEM VAGAS? FAÇA
